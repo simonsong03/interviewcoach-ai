@@ -19,4 +19,5 @@ Backend: FastAPI (Python)
 AI: Whisper (speech-to-text) + LLM (analysis)
 
 ## MVP Definition
-A user inputs an interview questions then uploads a short audio response (30–90 seconds) and receives structured feedback on clarity, confidence, filler words, and an improved example response.
+A user inputs an interview question, then uploads a short audio response (30–90 seconds) and receives structured feedback on clarity, confidence, filler words, and an improved example response.
+
