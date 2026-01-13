@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / frontend (future)
+node_modules/
+
+# Editor files
+.vscode/
